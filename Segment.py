@@ -3,7 +3,7 @@ import Point as Pt
 
 class Segment:
     
-    def __init__(self, point1=Pt.Point(0,0), point2=Pt.Point(0,0)):
+    def __init__(self, point1=Pt.Point(0, 0), point2=Pt.Point(0, 0)):
         self.name = ""
         self.point1 = point1
         self.point2 = point2
